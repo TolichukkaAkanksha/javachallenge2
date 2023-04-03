@@ -1,0 +1,9 @@
+Windows PowerShell
+Copyright (C) 2015 Microsoft Corporation. All rights reserved.
+
+PS D:\20491a0538>  & 'C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\LAB\AppData\Roaming\Code\User\workspaceStorage\fd2159f97e7dd4a2edadebcb1fa30f35\redhat.java\jdt_ws\20491a0538_2c4237b6\bin' 'Challenge'
+2021 variance:14.433757
+2022 variance:10.000000
+variance pct:-30.717968%
+PS D:\20491a0538>
+
